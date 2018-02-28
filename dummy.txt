@@ -1,3 +1,4 @@
 dummy
 dummy2
 dummy2\n
+fin
